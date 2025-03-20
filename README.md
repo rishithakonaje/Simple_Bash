@@ -20,14 +20,14 @@ This project implements a simple POSIX/Unix shell in C++.
 ### Compilation
 To compile the shell program, use the following command:
 ```
-g++ -o Matic matic.cpp
+g++ -o simple.cpp
 ```
-This generates an executable named `matic`.
+This generates an executable named `simple`.
 
 ### Running the Shell
 Run the shell by executing:
 ```
-./bash
+./simple
 ```
 You will see a prompt (`$`) where you can enter commands.
 
