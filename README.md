@@ -27,7 +27,7 @@ This generates an executable named `matic`.
 ### Running the Shell
 Run the shell by executing:
 ```
-./matic
+./bash
 ```
 You will see a prompt (`$`) where you can enter commands.
 
